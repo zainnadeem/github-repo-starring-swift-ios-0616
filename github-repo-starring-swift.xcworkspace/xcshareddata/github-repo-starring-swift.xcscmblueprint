@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "06649D52107DFCA17A7115DDE658AD2647A3A829",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C49E531097A6DDA1839A084C6B4524E65F07A89B" : 0,
+    "06649D52107DFCA17A7115DDE658AD2647A3A829" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9622D39D-AB29-45B1-8FFB-70EB15AA428D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C49E531097A6DDA1839A084C6B4524E65F07A89B" : "github-repo-list-swift-ios-0616\/",
+    "06649D52107DFCA17A7115DDE658AD2647A3A829" : "github-repo-starring-swift-ios-0616\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "github-repo-starring-swift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "github-repo-starring-swift.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zainnadeem\/github-repo-starring-swift-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06649D52107DFCA17A7115DDE658AD2647A3A829"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:zainnadeem\/github-repo-list-swift-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C49E531097A6DDA1839A084C6B4524E65F07A89B"
+    }
+  ]
+}
